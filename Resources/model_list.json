@@ -1,7 +1,7 @@
 {
     "models": [
         ["Rice", "Mao", "Hiyori", "Haru"],
-        ["Natori", "Mark"],
+        ["Natori"],
         ["Wanko", "Florges"]
     ],
     "messages": [

@@ -2,6 +2,10 @@
 
 ---
 
+## 0.原作者
+
+本仓库来源于：[letere-gzj (莱特雷)](https://github.com/letere-gzj)
+
 ## 1 介绍
 
 + 此项目是基于【[stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget)】项目的二次开发
